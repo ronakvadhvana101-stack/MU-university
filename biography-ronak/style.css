@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/');
+    src: url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/?#iefix') format('embedded-opentype'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/Roboto-Bold.woff2') format('woff2'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/Roboto-Bold.woff') format('woff'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/Roboto-Bold.ttf') format('truetype'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/Roboto-Bold.svg#Roboto-Bold') format('svg');
+    font-weight: 700;
+   
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/');
+    src: url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/?#iefix') format('embedded-opentype'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/Roboto-Regular.woff2') format('woff2'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/Roboto-Regular.woff') format('woff'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/Roboto-Regular.ttf') format('truetype'),
+        url('../css/assets/pluging/font/popines/transfonter.org-20260903-083923/popines/Roboto-Regular.svg#Roboto-Regular') format('svg');
+    font-weight: 400;
+   
+}
+
+
+
+body {
+    font-family: "roboto", serif;
+    font-weight:    100;
+}
